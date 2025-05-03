@@ -1,5 +1,10 @@
 import { FC } from "react";
-import layout from "./mapData.json"; // static layout from sandbox/GitHub
+import layout from "./mapData.json";
+
+// ✅ Safe fallback: allows bundling in GitHub without crashing
+const Retool = (globalThis as any).Retool || {
+  useStateArray: () => [[]],
+};
 
 export const StoreMap: FC = () => {
   const [statusData] = Retool.useStateArray({ name: "data" });
@@ -27,9 +32,11 @@ export const StoreMap: FC = () => {
     }
   };
 
-  // Merge Airtable status into static map layout
+  // Merge static layout with dynamic status from Retool
   const mergedData = layout.map((shape) => {
-    const match = statusData.find((s) => s.id === shape.id);
+    const match = statusData.find(
+      (s: { id: string; status?: string }) => s.id === shape.id
+    );
     return {
       ...shape,
       status: match?.status || "INCOMPLETE",
