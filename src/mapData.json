@@ -1,0 +1,6691 @@
+[
+    {
+      "id": "a51bay18",
+      "x": 417,
+      "y": 45,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a26bay18",
+      "x": 204,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a25bay8",
+      "x": 228,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a14bay10",
+      "x": 507,
+      "y": 291,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a46bay7",
+      "x": 285,
+      "y": 135,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a143bay35",
+      "x": 180,
+      "y": 93,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a52bay16",
+      "x": 441,
+      "y": 60,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a7bay18",
+      "x": 618,
+      "y": 231,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a55bay9",
+      "x": 492,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a56bay17",
+      "x": 516,
+      "y": 69,
+      "width": 6,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a38bay11",
+      "x": 126,
+      "y": 114,
+      "width": 6,
+      "height": 6,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a28bay13",
+      "x": 84,
+      "y": 249,
+      "width": 12,
+      "height": 6,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a60bay19",
+      "x": 606,
+      "y": 63,
+      "width": 12,
+      "height": 6,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a45bay21",
+      "x": 255,
+      "y": 15,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a19bay2",
+      "x": 372,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a39bay2",
+      "x": 168,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a41bay5",
+      "x": 192,
+      "y": 150,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a15bay16",
+      "x": 489,
+      "y": 246,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a61bay4",
+      "x": 654,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a21bay9",
+      "x": 306,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a49bay18",
+      "x": 372,
+      "y": 45,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a27bay2",
+      "x": 180,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a60bay10",
+      "x": 630,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a39bay13",
+      "x": 144,
+      "y": 108,
+      "width": 12,
+      "height": 6,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a44bay5",
+      "x": 237,
+      "y": 150,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a143bay33",
+      "x": 207,
+      "y": 93,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a9bay5",
+      "x": 570,
+      "y": 303,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a43bay13",
+      "x": 219,
+      "y": 108,
+      "width": 6,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a25bay14",
+      "x": 228,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a62bay19",
+      "x": 654,
+      "y": 63,
+      "width": 12,
+      "height": 6,
+      "department": "Unknown"
+    },
+    {
+      "id": "a12bay1",
+      "x": 525,
+      "y": 333,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a14bay3",
+      "x": 492,
+      "y": 351,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a54bay6",
+      "x": 486,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a5bay6",
+      "x": 654,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a24bay18",
+      "x": 252,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a12bay8",
+      "x": 537,
+      "y": 288,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a48bay11",
+      "x": 330,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a60bay11",
+      "x": 612,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a59bay7",
+      "x": 588,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a6bay20",
+      "x": 636,
+      "y": 216,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a16bay19",
+      "x": 426,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a23bay15",
+      "x": 258,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a39bay10",
+      "x": 168,
+      "y": 114,
+      "width": 6,
+      "height": 6,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a25bay13",
+      "x": 210,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a21bay18",
+      "x": 324,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a12bay7",
+      "x": 525,
+      "y": 288,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a40bay13",
+      "x": 168,
+      "y": 108,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a55bay10",
+      "x": 510,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a5bay16",
+      "x": 654,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a39bay5",
+      "x": 150,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a19bay20",
+      "x": 372,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a24bay2",
+      "x": 252,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a15bay3",
+      "x": 471,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a10bay3",
+      "x": 555,
+      "y": 318,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a24bay11",
+      "x": 234,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a19bay11",
+      "x": 354,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a37bay13",
+      "x": 78,
+      "y": 99,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a59bay6",
+      "x": 606,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a52bay3",
+      "x": 420,
+      "y": 171,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a27bay3",
+      "x": 162,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a13bay22",
+      "x": 540,
+      "y": 216,
+      "width": 12,
+      "height": 3,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a26bay14",
+      "x": 204,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a143bay7",
+      "x": 591,
+      "y": 39,
+      "width": 15,
+      "height": 6,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a51bay9",
+      "x": 399,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a20bay21",
+      "x": 330,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a19bay18",
+      "x": 372,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a18bay19",
+      "x": 378,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a7bay14",
+      "x": 618,
+      "y": 261,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a9bay10",
+      "x": 582,
+      "y": 291,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a56bay13",
+      "x": 516,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a6bay4",
+      "x": 636,
+      "y": 336,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a37bay3",
+      "x": 78,
+      "y": 174,
+      "width": 6,
+      "height": 12,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a57bay3",
+      "x": 540,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a27bay8",
+      "x": 180,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a10bay12",
+      "x": 567,
+      "y": 243,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a52bay21",
+      "x": 417,
+      "y": 39,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a59bay12",
+      "x": 606,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a9bay16",
+      "x": 582,
+      "y": 246,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a49bay5",
+      "x": 357,
+      "y": 150,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a47bay16",
+      "x": 324,
+      "y": 60,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a6bay3",
+      "x": 621,
+      "y": 351,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a42bay5",
+      "x": 207,
+      "y": 150,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a143bay14",
+      "x": 486,
+      "y": 39,
+      "width": 9,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a45bay13",
+      "x": 249,
+      "y": 108,
+      "width": 6,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a13bay17",
+      "x": 510,
+      "y": 231,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a37bay5",
+      "x": 78,
+      "y": 159,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a143bay2",
+      "x": 654,
+      "y": 39,
+      "width": 12,
+      "height": 6,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a48bay6",
+      "x": 348,
+      "y": 135,
+      "width": 9,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a10bay1",
+      "x": 555,
+      "y": 333,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a60bay16",
+      "x": 630,
+      "y": 69,
+      "width": 6,
+      "height": 6,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a49bay3",
+      "x": 357,
+      "y": 165,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a51bay3",
+      "x": 399,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a46bay9",
+      "x": 285,
+      "y": 120,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a13bay11",
+      "x": 510,
+      "y": 276,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a46bay14",
+      "x": 300,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a23bay18",
+      "x": 276,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a13bay20",
+      "x": 516,
+      "y": 216,
+      "width": 9,
+      "height": 3,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a9bay12",
+      "x": 582,
+      "y": 276,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a60bay8",
+      "x": 630,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a26bay20",
+      "x": 204,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a59bay9",
+      "x": 588,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a56bay5",
+      "x": 516,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a58bay12",
+      "x": 582,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a24bay16",
+      "x": 252,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a143bay43",
+      "x": 84,
+      "y": 93,
+      "width": 12,
+      "height": 6,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a17bay18",
+      "x": 420,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a60bay9",
+      "x": 612,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a27bay7",
+      "x": 162,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a50bay14",
+      "x": 393,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a23bay11",
+      "x": 258,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a7bay3",
+      "x": 603,
+      "y": 351,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a61bay15",
+      "x": 636,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a19bay9",
+      "x": 354,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a46bay6",
+      "x": 300,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a17bay13",
+      "x": 402,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a43bay10",
+      "x": 234,
+      "y": 114,
+      "width": 3,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a24bay20",
+      "x": 252,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a46bay19",
+      "x": 285,
+      "y": 45,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a8bay17",
+      "x": 585,
+      "y": 246,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a38bay5",
+      "x": 126,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a7bay15",
+      "x": 603,
+      "y": 261,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a55bay14",
+      "x": 510,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a39bay9",
+      "x": 150,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a24bay7",
+      "x": 234,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a6bay2",
+      "x": 636,
+      "y": 351,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a143bay41",
+      "x": 108,
+      "y": 93,
+      "width": 12,
+      "height": 6,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a24bay8",
+      "x": 252,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a48bay17",
+      "x": 330,
+      "y": 60,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a50bay21",
+      "x": 372,
+      "y": 39,
+      "width": 9,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a58bay8",
+      "x": 582,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a5bay18",
+      "x": 654,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a11bay6",
+      "x": 552,
+      "y": 303,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a40bay6",
+      "x": 189,
+      "y": 135,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a15bay21",
+      "x": 471,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a21bay6",
+      "x": 324,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a25bay17",
+      "x": 210,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a21bay5",
+      "x": 306,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a12bay5",
+      "x": 525,
+      "y": 303,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a58bay11",
+      "x": 564,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a20bay13",
+      "x": 330,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a143bay31",
+      "x": 261,
+      "y": 9,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a19bay19",
+      "x": 354,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a9bay2",
+      "x": 582,
+      "y": 351,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a46bay3",
+      "x": 285,
+      "y": 165,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a50bay16",
+      "x": 393,
+      "y": 60,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a17bay9",
+      "x": 402,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a38bay13",
+      "x": 120,
+      "y": 108,
+      "width": 12,
+      "height": 6,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a51bay17",
+      "x": 399,
+      "y": 60,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a18bay18",
+      "x": 396,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a14bay4",
+      "x": 507,
+      "y": 336,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a23bay3",
+      "x": 258,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a45bay3",
+      "x": 252,
+      "y": 165,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a17bay14",
+      "x": 420,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a41bay7",
+      "x": 192,
+      "y": 135,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a50bay4",
+      "x": 393,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a52bay19",
+      "x": 423,
+      "y": 45,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a20bay6",
+      "x": 348,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a44bay9",
+      "x": 237,
+      "y": 120,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a5bay12",
+      "x": 654,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a5bay17",
+      "x": 639,
+      "y": 246,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a41bay3",
+      "x": 192,
+      "y": 165,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a24bay13",
+      "x": 234,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a53bay13",
+      "x": 447,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a58bay7",
+      "x": 564,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a22bay2",
+      "x": 300,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a55bay6",
+      "x": 510,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a21bay10",
+      "x": 324,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a44bay6",
+      "x": 249,
+      "y": 135,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a20bay15",
+      "x": 330,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a16bay20",
+      "x": 465,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a54bay14",
+      "x": 486,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a58bay9",
+      "x": 564,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a50bay13",
+      "x": 375,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a20bay9",
+      "x": 330,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a46bay15",
+      "x": 285,
+      "y": 75,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a17bay21",
+      "x": 402,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a22bay3",
+      "x": 282,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a25bay16",
+      "x": 228,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a7bay13",
+      "x": 603,
+      "y": 276,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a43bay7",
+      "x": 222,
+      "y": 135,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a56bay7",
+      "x": 516,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a49bay21",
+      "x": 348,
+      "y": 39,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a56bay8",
+      "x": 534,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a50bay12",
+      "x": 393,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a22bay19",
+      "x": 282,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a49bay10",
+      "x": 372,
+      "y": 105,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a45bay18",
+      "x": 282,
+      "y": 45,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a52bay14",
+      "x": 441,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a55bay3",
+      "x": 492,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a46bay16",
+      "x": 300,
+      "y": 60,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a22bay13",
+      "x": 282,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a13bay8",
+      "x": 522,
+      "y": 288,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a37bay2",
+      "x": 120,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a48bay3",
+      "x": 330,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a19bay14",
+      "x": 372,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a19bay4",
+      "x": 372,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a61bay3",
+      "x": 636,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a21bay4",
+      "x": 324,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a16bay18",
+      "x": 465,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a61bay11",
+      "x": 636,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a15bay5",
+      "x": 471,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a50bay11",
+      "x": 375,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a5bay19",
+      "x": 639,
+      "y": 231,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a57bay2",
+      "x": 558,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a51bay8",
+      "x": 414,
+      "y": 126,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a58bay17",
+      "x": 564,
+      "y": 69,
+      "width": 6,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a143bay6",
+      "x": 606,
+      "y": 39,
+      "width": 12,
+      "height": 6,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a59bay5",
+      "x": 588,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a47bay13",
+      "x": 306,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a18bay8",
+      "x": 396,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a24bay14",
+      "x": 252,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a6bay13",
+      "x": 621,
+      "y": 276,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a42bay11",
+      "x": 207,
+      "y": 114,
+      "width": 3,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a11bay7",
+      "x": 540,
+      "y": 288,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a43bay2",
+      "x": 234,
+      "y": 165,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a38bay8",
+      "x": 144,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a50bay5",
+      "x": 375,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a22bay15",
+      "x": 282,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a28bay16",
+      "x": 156,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a40bay9",
+      "x": 174,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a6bay7",
+      "x": 621,
+      "y": 321,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a17bay12",
+      "x": 420,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a142bay9",
+      "x": 417,
+      "y": 90,
+      "width": 12,
+      "height": 6,
+      "department": "Unknown"
+    },
+    {
+      "id": "a13bay25",
+      "x": 573,
+      "y": 216,
+      "width": 9,
+      "height": 3,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a55bay16",
+      "x": 510,
+      "y": 69,
+      "width": 6,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a56bay15",
+      "x": 516,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a46bay13",
+      "x": 285,
+      "y": 90,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a22bay6",
+      "x": 300,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a55bay7",
+      "x": 492,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a14bay14",
+      "x": 507,
+      "y": 261,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a8bay12",
+      "x": 600,
+      "y": 276,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a8bay14",
+      "x": 600,
+      "y": 261,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a46bay10",
+      "x": 300,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a39bay4",
+      "x": 168,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a26bay5",
+      "x": 186,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a49bay19",
+      "x": 357,
+      "y": 45,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a45bay7",
+      "x": 252,
+      "y": 135,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a143bay15",
+      "x": 480,
+      "y": 27,
+      "width": 6,
+      "height": 18,
+      "department": "ITH"
+    },
+    {
+      "id": "a44bay8",
+      "x": 249,
+      "y": 120,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a22bay7",
+      "x": 282,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a15bay14",
+      "x": 489,
+      "y": 261,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a51bay19",
+      "x": 399,
+      "y": 45,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a18bay14",
+      "x": 396,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a5bay4",
+      "x": 654,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a143bay36",
+      "x": 168,
+      "y": 93,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a45bay11",
+      "x": 252,
+      "y": 114,
+      "width": 3,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a53bay21",
+      "x": 441,
+      "y": 39,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a23bay20",
+      "x": 276,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a27bay18",
+      "x": 180,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a25bay11",
+      "x": 210,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a13bay1",
+      "x": 510,
+      "y": 351,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a42bay6",
+      "x": 219,
+      "y": 135,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a9bay4",
+      "x": 582,
+      "y": 336,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a143bay34",
+      "x": 192,
+      "y": 93,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a22bay16",
+      "x": 300,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a41bay11",
+      "x": 192,
+      "y": 114,
+      "width": 3,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a55bay11",
+      "x": 492,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a48bay4",
+      "x": 348,
+      "y": 150,
+      "width": 9,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a12bay13",
+      "x": 525,
+      "y": 228,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a24bay10",
+      "x": 252,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a50bay18",
+      "x": 393,
+      "y": 45,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a143bay9",
+      "x": 567,
+      "y": 39,
+      "width": 9,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a23bay8",
+      "x": 276,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a21bay2",
+      "x": 324,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a15bay18",
+      "x": 489,
+      "y": 231,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a58bay10",
+      "x": 582,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a47bay21",
+      "x": 300,
+      "y": 39,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a13bay23",
+      "x": 552,
+      "y": 216,
+      "width": 12,
+      "height": 3,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a28bay2",
+      "x": 156,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a7bay20",
+      "x": 618,
+      "y": 216,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a20bay5",
+      "x": 330,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a49bay12",
+      "x": 372,
+      "y": 90,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a5bay7",
+      "x": 639,
+      "y": 321,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a25bay12",
+      "x": 228,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a26bay19",
+      "x": 186,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a47bay19",
+      "x": 306,
+      "y": 45,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a43bay9",
+      "x": 222,
+      "y": 120,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a48bay14",
+      "x": 348,
+      "y": 75,
+      "width": 9,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a27bay13",
+      "x": 162,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a9bay9",
+      "x": 570,
+      "y": 258,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a61bay13",
+      "x": 636,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a55bay12",
+      "x": 510,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a60bay6",
+      "x": 630,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a5bay2",
+      "x": 654,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a58bay5",
+      "x": 564,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a13bay19",
+      "x": 510,
+      "y": 216,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a11bay11",
+      "x": 540,
+      "y": 243,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a55bay4",
+      "x": 510,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a20bay3",
+      "x": 330,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a21bay14",
+      "x": 324,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a49bay2",
+      "x": 372,
+      "y": 165,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a50bay8",
+      "x": 393,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a20bay8",
+      "x": 348,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a8bay5",
+      "x": 585,
+      "y": 336,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a51bay6",
+      "x": 414,
+      "y": 141,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a9bay6",
+      "x": 582,
+      "y": 321,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a12bay14",
+      "x": 537,
+      "y": 228,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a23bay13",
+      "x": 258,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a26bay2",
+      "x": 204,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a44bay11",
+      "x": 237,
+      "y": 114,
+      "width": 3,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a23bay14",
+      "x": 276,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a44bay4",
+      "x": 249,
+      "y": 150,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a15bay6",
+      "x": 489,
+      "y": 321,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a143bay30",
+      "x": 273,
+      "y": 9,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a17bay4",
+      "x": 420,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a143bay40",
+      "x": 120,
+      "y": 93,
+      "width": 12,
+      "height": 6,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a61bay2",
+      "x": 654,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a143bay39",
+      "x": 132,
+      "y": 93,
+      "width": 12,
+      "height": 6,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a11bay3",
+      "x": 540,
+      "y": 318,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a13bay5",
+      "x": 510,
+      "y": 321,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a21bay7",
+      "x": 306,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a47bay17",
+      "x": 306,
+      "y": 60,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a7bay6",
+      "x": 618,
+      "y": 321,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a16bay16",
+      "x": 465,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a22bay5",
+      "x": 282,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a51bay11",
+      "x": 399,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a37bay11",
+      "x": 78,
+      "y": 114,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a18bay4",
+      "x": 396,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a51bay14",
+      "x": 417,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a59bay15",
+      "x": 588,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a60bay15",
+      "x": 612,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a12bay11",
+      "x": 525,
+      "y": 243,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a25bay5",
+      "x": 210,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a20bay17",
+      "x": 330,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a20bay11",
+      "x": 330,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a56bay12",
+      "x": 534,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a20bay14",
+      "x": 348,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a49bay8",
+      "x": 372,
+      "y": 120,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a10bay7",
+      "x": 555,
+      "y": 288,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a18bay16",
+      "x": 396,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a21bay15",
+      "x": 306,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a23bay16",
+      "x": 276,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a39bay6",
+      "x": 168,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a25bay4",
+      "x": 228,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a47bay9",
+      "x": 306,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a59bay4",
+      "x": 606,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a12bay10",
+      "x": 537,
+      "y": 258,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a41bay10",
+      "x": 204,
+      "y": 114,
+      "width": 3,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a24bay3",
+      "x": 234,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a52bay7",
+      "x": 420,
+      "y": 141,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a50bay7",
+      "x": 375,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a46bay17",
+      "x": 285,
+      "y": 60,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a47bay12",
+      "x": 324,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a45bay15",
+      "x": 255,
+      "y": 87,
+      "width": 3,
+      "height": 12,
+      "department": "ITH"
+    },
+    {
+      "id": "a47bay3",
+      "x": 306,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a26bay3",
+      "x": 186,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a20bay18",
+      "x": 348,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a7bay10",
+      "x": 618,
+      "y": 291,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a7bay12",
+      "x": 618,
+      "y": 276,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a20bay19",
+      "x": 330,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a25bay7",
+      "x": 210,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a38bay4",
+      "x": 144,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a15bay8",
+      "x": 489,
+      "y": 306,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a14bay7",
+      "x": 492,
+      "y": 321,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a52bay18",
+      "x": 441,
+      "y": 45,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a6bay16",
+      "x": 636,
+      "y": 246,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a27bay9",
+      "x": 162,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a60bay5",
+      "x": 612,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a16bay2",
+      "x": 465,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a49bay11",
+      "x": 357,
+      "y": 105,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a26bay6",
+      "x": 204,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a7bay2",
+      "x": 618,
+      "y": 351,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a45bay12",
+      "x": 282,
+      "y": 90,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a48bay16",
+      "x": 348,
+      "y": 60,
+      "width": 9,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a19bay3",
+      "x": 354,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a22bay14",
+      "x": 300,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a14bay20",
+      "x": 507,
+      "y": 216,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a48bay13",
+      "x": 330,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a18bay3",
+      "x": 378,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a58bay4",
+      "x": 582,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a137bay3",
+      "x": 513,
+      "y": 366,
+      "width": 18,
+      "height": 3,
+      "department": "Unknown"
+    },
+    {
+      "id": "a21bay21",
+      "x": 306,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a51bay21",
+      "x": 393,
+      "y": 39,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a143bay32",
+      "x": 219,
+      "y": 93,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a46bay21",
+      "x": 282,
+      "y": 39,
+      "width": 6,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a13bay3",
+      "x": 510,
+      "y": 336,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a5bay10",
+      "x": 654,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a56bay2",
+      "x": 534,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a14bay9",
+      "x": 492,
+      "y": 306,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a44bay13",
+      "x": 234,
+      "y": 108,
+      "width": 6,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a20bay7",
+      "x": 330,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a57bay5",
+      "x": 540,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a8bay11",
+      "x": 585,
+      "y": 291,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a8bay21",
+      "x": 585,
+      "y": 216,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a40bay7",
+      "x": 174,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a58bay19",
+      "x": 558,
+      "y": 63,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a48bay5",
+      "x": 330,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a18bay9",
+      "x": 378,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a49bay7",
+      "x": 357,
+      "y": 135,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a43bay3",
+      "x": 222,
+      "y": 165,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a25bay18",
+      "x": 228,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a136bay8",
+      "x": 570,
+      "y": 369,
+      "width": 12,
+      "height": 3,
+      "department": "Unknown"
+    },
+    {
+      "id": "a42bay4",
+      "x": 219,
+      "y": 150,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a24bay4",
+      "x": 252,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a9bay8",
+      "x": 582,
+      "y": 306,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a13bay4",
+      "x": 522,
+      "y": 318,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a51bay4",
+      "x": 414,
+      "y": 156,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a47bay7",
+      "x": 306,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a59bay11",
+      "x": 588,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a27bay16",
+      "x": 180,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a38bay9",
+      "x": 126,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a8bay2",
+      "x": 600,
+      "y": 351,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a37bay10",
+      "x": 120,
+      "y": 114,
+      "width": 6,
+      "height": 6,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a54bay16",
+      "x": 486,
+      "y": 69,
+      "width": 6,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a16bay15",
+      "x": 426,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a28bay17",
+      "x": 78,
+      "y": 225,
+      "width": 6,
+      "height": 12,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a15bay17",
+      "x": 471,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a56bay6",
+      "x": 534,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a19bay13",
+      "x": 354,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a50bay19",
+      "x": 375,
+      "y": 45,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a55bay5",
+      "x": 492,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a17bay19",
+      "x": 402,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a8bay20",
+      "x": 600,
+      "y": 216,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a16bay8",
+      "x": 465,
+      "y": 315,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a10bay5",
+      "x": 555,
+      "y": 303,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a27bay4",
+      "x": 180,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a46bay5",
+      "x": 285,
+      "y": 150,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a42bay7",
+      "x": 207,
+      "y": 135,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a24bay19",
+      "x": 234,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a7bay9",
+      "x": 603,
+      "y": 306,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a26bay7",
+      "x": 186,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a9bay20",
+      "x": 582,
+      "y": 216,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a18bay7",
+      "x": 378,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a56bay16",
+      "x": 534,
+      "y": 69,
+      "width": 6,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a5bay11",
+      "x": 639,
+      "y": 291,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a26bay21",
+      "x": 186,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a38bay10",
+      "x": 144,
+      "y": 114,
+      "width": 6,
+      "height": 6,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a52bay15",
+      "x": 423,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a47bay11",
+      "x": 306,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a51bay2",
+      "x": 414,
+      "y": 171,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a18bay5",
+      "x": 378,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a51bay7",
+      "x": 399,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a50bay15",
+      "x": 375,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a12bay4",
+      "x": 537,
+      "y": 318,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a16bay3",
+      "x": 426,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a58bay13",
+      "x": 564,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a23bay17",
+      "x": 258,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a15bay12",
+      "x": 489,
+      "y": 276,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a17bay8",
+      "x": 420,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a143bay12",
+      "x": 510,
+      "y": 39,
+      "width": 15,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a44bay7",
+      "x": 237,
+      "y": 135,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a24bay5",
+      "x": 234,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a13bay9",
+      "x": 510,
+      "y": 291,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a26bay10",
+      "x": 204,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a22bay20",
+      "x": 300,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a8bay8",
+      "x": 600,
+      "y": 306,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a11bay8",
+      "x": 552,
+      "y": 288,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a14bay15",
+      "x": 492,
+      "y": 261,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a57bay8",
+      "x": 558,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a143bay4",
+      "x": 630,
+      "y": 39,
+      "width": 12,
+      "height": 6,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a5bay20",
+      "x": 654,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a46bay12",
+      "x": 300,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a27bay19",
+      "x": 162,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a38bay2",
+      "x": 144,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a47bay2",
+      "x": 324,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a54bay4",
+      "x": 486,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a17bay7",
+      "x": 402,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a24bay17",
+      "x": 234,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a28bay4",
+      "x": 156,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a19bay17",
+      "x": 354,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a28bay14",
+      "x": 156,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a18bay17",
+      "x": 378,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a42bay9",
+      "x": 207,
+      "y": 120,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a6bay21",
+      "x": 621,
+      "y": 216,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a5bay13",
+      "x": 639,
+      "y": 276,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a10bay4",
+      "x": 567,
+      "y": 318,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a13bay13",
+      "x": 510,
+      "y": 261,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a23bay21",
+      "x": 258,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a54bay10",
+      "x": 486,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a23bay5",
+      "x": 258,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a57bay12",
+      "x": 558,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a58bay3",
+      "x": 564,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a13bay21",
+      "x": 525,
+      "y": 216,
+      "width": 15,
+      "height": 3,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a45bay9",
+      "x": 252,
+      "y": 120,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a8bay16",
+      "x": 600,
+      "y": 246,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a5bay15",
+      "x": 639,
+      "y": 261,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a53bay19",
+      "x": 447,
+      "y": 45,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a60bay3",
+      "x": 612,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a143bay5",
+      "x": 618,
+      "y": 39,
+      "width": 12,
+      "height": 6,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a5bay14",
+      "x": 654,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a57bay15",
+      "x": 540,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a27bay21",
+      "x": 162,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a25bay3",
+      "x": 210,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a41bay13",
+      "x": 189,
+      "y": 108,
+      "width": 6,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a20bay12",
+      "x": 348,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a24bay21",
+      "x": 234,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a43bay8",
+      "x": 234,
+      "y": 120,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a60bay17",
+      "x": 612,
+      "y": 69,
+      "width": 6,
+      "height": 6,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a48bay18",
+      "x": 348,
+      "y": 45,
+      "width": 9,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a25bay19",
+      "x": 210,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a48bay9",
+      "x": 330,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a41bay4",
+      "x": 204,
+      "y": 150,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a7bay21",
+      "x": 603,
+      "y": 216,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a48bay10",
+      "x": 348,
+      "y": 105,
+      "width": 9,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a37bay6",
+      "x": 120,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a27bay14",
+      "x": 180,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a143bay10",
+      "x": 540,
+      "y": 39,
+      "width": 15,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a49bay9",
+      "x": 357,
+      "y": 120,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a46bay11",
+      "x": 285,
+      "y": 105,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a12bay3",
+      "x": 525,
+      "y": 318,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a39bay8",
+      "x": 168,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a143bay13",
+      "x": 495,
+      "y": 39,
+      "width": 15,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a39bay7",
+      "x": 150,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a18bay21",
+      "x": 378,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a9bay7",
+      "x": 570,
+      "y": 288,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a47bay10",
+      "x": 324,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a41bay8",
+      "x": 204,
+      "y": 120,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a14bay2",
+      "x": 507,
+      "y": 351,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a41bay6",
+      "x": 204,
+      "y": 135,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a7bay7",
+      "x": 603,
+      "y": 321,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a21bay20",
+      "x": 324,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a14bay16",
+      "x": 507,
+      "y": 246,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a5bay5",
+      "x": 639,
+      "y": 336,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a52bay5",
+      "x": 420,
+      "y": 156,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a45bay8",
+      "x": 282,
+      "y": 120,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a18bay2",
+      "x": 396,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a26bay4",
+      "x": 204,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a46bay2",
+      "x": 300,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a57bay6",
+      "x": 558,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a21bay16",
+      "x": 324,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a59bay10",
+      "x": 606,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a16bay5",
+      "x": 426,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a21bay17",
+      "x": 306,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a57bay9",
+      "x": 540,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a51bay13",
+      "x": 399,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a13bay24",
+      "x": 564,
+      "y": 216,
+      "width": 9,
+      "height": 3,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a14bay18",
+      "x": 507,
+      "y": 231,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a61bay10",
+      "x": 654,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a49bay17",
+      "x": 357,
+      "y": 60,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a12bay6",
+      "x": 537,
+      "y": 303,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a59bay13",
+      "x": 588,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a22bay8",
+      "x": 300,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a17bay3",
+      "x": 402,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a18bay20",
+      "x": 396,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a56bay3",
+      "x": 516,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a61bay14",
+      "x": 654,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a26bay12",
+      "x": 204,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a57bay14",
+      "x": 558,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a40bay8",
+      "x": 189,
+      "y": 120,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a48bay2",
+      "x": 348,
+      "y": 165,
+      "width": 9,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a15bay19",
+      "x": 471,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a47bay18",
+      "x": 324,
+      "y": 45,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a16bay9",
+      "x": 426,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a15bay2",
+      "x": 489,
+      "y": 351,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a55bay17",
+      "x": 492,
+      "y": 69,
+      "width": 6,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a56bay19",
+      "x": 510,
+      "y": 63,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a23bay10",
+      "x": 276,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a38bay7",
+      "x": 126,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a6bay19",
+      "x": 621,
+      "y": 231,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a28bay19",
+      "x": 78,
+      "y": 210,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a47bay15",
+      "x": 306,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a50bay10",
+      "x": 393,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a37bay9",
+      "x": 78,
+      "y": 129,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a37bay7",
+      "x": 78,
+      "y": 144,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a61bay12",
+      "x": 654,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a27bay17",
+      "x": 162,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a17bay5",
+      "x": 402,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a19bay7",
+      "x": 354,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a48bay7",
+      "x": 330,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a48bay8",
+      "x": 348,
+      "y": 120,
+      "width": 9,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a44bay10",
+      "x": 249,
+      "y": 114,
+      "width": 3,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a50bay17",
+      "x": 375,
+      "y": 60,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a13bay7",
+      "x": 510,
+      "y": 306,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a17bay6",
+      "x": 420,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a5bay3",
+      "x": 639,
+      "y": 351,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a6bay17",
+      "x": 621,
+      "y": 246,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a25bay20",
+      "x": 228,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a11bay2",
+      "x": 552,
+      "y": 333,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a56bay9",
+      "x": 516,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a48bay15",
+      "x": 330,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a5bay8",
+      "x": 654,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a50bay2",
+      "x": 393,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a19bay12",
+      "x": 372,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a8bay4",
+      "x": 600,
+      "y": 336,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a45bay6",
+      "x": 282,
+      "y": 135,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a22bay9",
+      "x": 282,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a9bay18",
+      "x": 582,
+      "y": 231,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a42bay3",
+      "x": 207,
+      "y": 165,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a21bay8",
+      "x": 324,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a26bay11",
+      "x": 186,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a55bay2",
+      "x": 510,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a57bay19",
+      "x": 534,
+      "y": 63,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a21bay13",
+      "x": 306,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a57bay16",
+      "x": 558,
+      "y": 69,
+      "width": 6,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a57bay13",
+      "x": 540,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a61bay5",
+      "x": 636,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a54bay2",
+      "x": 486,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a9bay13",
+      "x": 570,
+      "y": 228,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a48bay12",
+      "x": 348,
+      "y": 90,
+      "width": 9,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a5bay9",
+      "x": 639,
+      "y": 306,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a23bay4",
+      "x": 276,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a45bay16",
+      "x": 282,
+      "y": 60,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a55bay15",
+      "x": 492,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a23bay2",
+      "x": 276,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a46bay18",
+      "x": 300,
+      "y": 45,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a57bay17",
+      "x": 540,
+      "y": 69,
+      "width": 6,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a7bay11",
+      "x": 603,
+      "y": 291,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a45bay2",
+      "x": 282,
+      "y": 165,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a19bay6",
+      "x": 372,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a22bay12",
+      "x": 300,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a16bay13",
+      "x": 426,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a18bay15",
+      "x": 378,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a56bay11",
+      "x": 516,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a10bay14",
+      "x": 567,
+      "y": 228,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a61bay8",
+      "x": 654,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a15bay20",
+      "x": 489,
+      "y": 216,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a19bay5",
+      "x": 354,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a61bay6",
+      "x": 654,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a42bay8",
+      "x": 219,
+      "y": 120,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a8bay10",
+      "x": 600,
+      "y": 291,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a8bay3",
+      "x": 585,
+      "y": 351,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a15bay7",
+      "x": 471,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a6bay10",
+      "x": 636,
+      "y": 291,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a14bay17",
+      "x": 492,
+      "y": 246,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a7bay5",
+      "x": 603,
+      "y": 336,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a40bay2",
+      "x": 189,
+      "y": 165,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a44bay2",
+      "x": 249,
+      "y": 165,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a27bay15",
+      "x": 162,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a56bay4",
+      "x": 534,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a22bay17",
+      "x": 282,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a45bay17",
+      "x": 255,
+      "y": 45,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a61bay19",
+      "x": 630,
+      "y": 63,
+      "width": 12,
+      "height": 6,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a50bay3",
+      "x": 375,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a47bay4",
+      "x": 324,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a48bay21",
+      "x": 324,
+      "y": 39,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a13bay10",
+      "x": 522,
+      "y": 258,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a14bay19",
+      "x": 492,
+      "y": 231,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a24bay6",
+      "x": 252,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a45bay4",
+      "x": 282,
+      "y": 150,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a9bay1",
+      "x": 570,
+      "y": 333,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a10bay6",
+      "x": 567,
+      "y": 303,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a48bay19",
+      "x": 330,
+      "y": 45,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a8bay6",
+      "x": 600,
+      "y": 321,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a55bay8",
+      "x": 510,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a59bay3",
+      "x": 588,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a16bay4",
+      "x": 465,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a26bay9",
+      "x": 186,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a11bay4",
+      "x": 552,
+      "y": 318,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a49bay15",
+      "x": 357,
+      "y": 75,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a18bay6",
+      "x": 396,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a8bay19",
+      "x": 585,
+      "y": 231,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a26bay16",
+      "x": 204,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a57bay11",
+      "x": 540,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a17bay15",
+      "x": 402,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a38bay3",
+      "x": 126,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a13bay2",
+      "x": 522,
+      "y": 333,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a45bay5",
+      "x": 252,
+      "y": 150,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a11bay5",
+      "x": 540,
+      "y": 303,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a11bay9",
+      "x": 540,
+      "y": 258,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a37bay8",
+      "x": 120,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a18bay13",
+      "x": 378,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a54bay12",
+      "x": 486,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a43bay4",
+      "x": 234,
+      "y": 150,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a42bay13",
+      "x": 204,
+      "y": 108,
+      "width": 6,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a9bay11",
+      "x": 570,
+      "y": 243,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a23bay7",
+      "x": 258,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a38bay6",
+      "x": 144,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a23bay9",
+      "x": 258,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a20bay16",
+      "x": 348,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a16bay7",
+      "x": 426,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a21bay11",
+      "x": 306,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a28bay11",
+      "x": 96,
+      "y": 249,
+      "width": 12,
+      "height": 6,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a8bay18",
+      "x": 600,
+      "y": 231,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a23bay19",
+      "x": 258,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a59bay17",
+      "x": 588,
+      "y": 69,
+      "width": 6,
+      "height": 6,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a58bay15",
+      "x": 564,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a18bay11",
+      "x": 378,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a52bay17",
+      "x": 423,
+      "y": 60,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a60bay14",
+      "x": 630,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a7bay4",
+      "x": 618,
+      "y": 336,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a52bay11",
+      "x": 420,
+      "y": 111,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a25bay15",
+      "x": 210,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a47bay6",
+      "x": 324,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a6bay8",
+      "x": 636,
+      "y": 306,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a51bay10",
+      "x": 414,
+      "y": 111,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a6bay14",
+      "x": 636,
+      "y": 261,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a28bay18",
+      "x": 156,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a55bay13",
+      "x": 492,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a60bay2",
+      "x": 630,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a27bay11",
+      "x": 162,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a7bay8",
+      "x": 618,
+      "y": 306,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a136bay10",
+      "x": 513,
+      "y": 369,
+      "width": 18,
+      "height": 3,
+      "department": "Unknown"
+    },
+    {
+      "id": "a40bay5",
+      "x": 174,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a17bay20",
+      "x": 420,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a12bay2",
+      "x": 537,
+      "y": 333,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a17bay17",
+      "x": 402,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a15bay4",
+      "x": 489,
+      "y": 336,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a45bay19",
+      "x": 255,
+      "y": 30,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a16bay21",
+      "x": 426,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a59bay16",
+      "x": 606,
+      "y": 69,
+      "width": 6,
+      "height": 6,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a21bay12",
+      "x": 324,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a5bay21",
+      "x": 639,
+      "y": 216,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a143bay42",
+      "x": 96,
+      "y": 93,
+      "width": 12,
+      "height": 6,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a23bay12",
+      "x": 276,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a49bay4",
+      "x": 372,
+      "y": 150,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a58bay2",
+      "x": 582,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a28bay10",
+      "x": 156,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a11bay1",
+      "x": 540,
+      "y": 333,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a61bay16",
+      "x": 654,
+      "y": 69,
+      "width": 6,
+      "height": 6,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a51bay5",
+      "x": 399,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a13bay12",
+      "x": 522,
+      "y": 243,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a19bay15",
+      "x": 354,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a25bay21",
+      "x": 210,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a9bay14",
+      "x": 582,
+      "y": 261,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a60bay7",
+      "x": 612,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a59bay14",
+      "x": 606,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a43bay6",
+      "x": 234,
+      "y": 135,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a19bay21",
+      "x": 354,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a47bay5",
+      "x": 306,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a6bay18",
+      "x": 636,
+      "y": 231,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a21bay19",
+      "x": 306,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a18bay12",
+      "x": 396,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a39bay3",
+      "x": 150,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a60bay4",
+      "x": 630,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a45bay10",
+      "x": 282,
+      "y": 105,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a8bay15",
+      "x": 585,
+      "y": 261,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a22bay21",
+      "x": 282,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a27bay10",
+      "x": 180,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a16bay6",
+      "x": 465,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "bay143bay1",
+      "x": 666,
+      "y": 39,
+      "width": 12,
+      "height": 6,
+      "department": "Unknown"
+    },
+    {
+      "id": "a59bay19",
+      "x": 582,
+      "y": 63,
+      "width": 12,
+      "height": 6,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a6bay9",
+      "x": 621,
+      "y": 306,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a19bay8",
+      "x": 372,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a7bay19",
+      "x": 603,
+      "y": 231,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a43bay5",
+      "x": 222,
+      "y": 150,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a26bay8",
+      "x": 204,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a44bay3",
+      "x": 237,
+      "y": 165,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a55bay19",
+      "x": 486,
+      "y": 63,
+      "width": 12,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a49bay6",
+      "x": 372,
+      "y": 135,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a6bay15",
+      "x": 621,
+      "y": 261,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a28bay12",
+      "x": 156,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a14bay6",
+      "x": 507,
+      "y": 321,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a61bay9",
+      "x": 636,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a14bay21",
+      "x": 492,
+      "y": 216,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a40bay3",
+      "x": 174,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a6bay6",
+      "x": 636,
+      "y": 321,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a58bay6",
+      "x": 582,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a57bay7",
+      "x": 540,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a54bay8",
+      "x": 486,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a13bay6",
+      "x": 522,
+      "y": 303,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a143bay11",
+      "x": 525,
+      "y": 39,
+      "width": 15,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a22bay18",
+      "x": 300,
+      "y": 231,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a51bay16",
+      "x": 417,
+      "y": 60,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a14bay13",
+      "x": 492,
+      "y": 276,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a61bay17",
+      "x": 636,
+      "y": 69,
+      "width": 6,
+      "height": 6,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a10bay10",
+      "x": 567,
+      "y": 258,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a6bay11",
+      "x": 621,
+      "y": 291,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a12bay12",
+      "x": 537,
+      "y": 243,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a57bay10",
+      "x": 558,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a8bay13",
+      "x": 585,
+      "y": 276,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a14bay5",
+      "x": 492,
+      "y": 336,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a53bay15",
+      "x": 447,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a143bay8",
+      "x": 576,
+      "y": 39,
+      "width": 15,
+      "height": 6,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a46bay8",
+      "x": 300,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a41bay9",
+      "x": 192,
+      "y": 120,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a25bay6",
+      "x": 228,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a14bay12",
+      "x": 507,
+      "y": 276,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a20bay2",
+      "x": 348,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a10bay2",
+      "x": 567,
+      "y": 333,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a56bay14",
+      "x": 534,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a27bay20",
+      "x": 180,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a43bay11",
+      "x": 222,
+      "y": 114,
+      "width": 3,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a28bay20",
+      "x": 156,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a49bay13",
+      "x": 357,
+      "y": 90,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a21bay3",
+      "x": 306,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a28bay15",
+      "x": 78,
+      "y": 237,
+      "width": 6,
+      "height": 12,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a9bay3",
+      "x": 570,
+      "y": 318,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a41bay2",
+      "x": 204,
+      "y": 165,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a47bay14",
+      "x": 324,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a26bay17",
+      "x": 186,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a28bay6",
+      "x": 156,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a11bay13",
+      "x": 540,
+      "y": 228,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a28bay8",
+      "x": 156,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a16bay17",
+      "x": 426,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a8bay9",
+      "x": 585,
+      "y": 306,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a13bay15",
+      "x": 510,
+      "y": 246,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a47bay8",
+      "x": 324,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a12bay9",
+      "x": 525,
+      "y": 258,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a8bay7",
+      "x": 585,
+      "y": 321,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a52bay9",
+      "x": 420,
+      "y": 126,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a50bay9",
+      "x": 375,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a45bay14",
+      "x": 282,
+      "y": 75,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a20bay10",
+      "x": 348,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a26bay15",
+      "x": 186,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a42bay10",
+      "x": 219,
+      "y": 114,
+      "width": 3,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a58bay16",
+      "x": 582,
+      "y": 69,
+      "width": 6,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a22bay10",
+      "x": 300,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a25bay9",
+      "x": 210,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a25bay2",
+      "x": 228,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a14bay8",
+      "x": 507,
+      "y": 306,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a6bay5",
+      "x": 621,
+      "y": 336,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a23bay6",
+      "x": 276,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a6bay12",
+      "x": 636,
+      "y": 276,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a60bay12",
+      "x": 630,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a26bay13",
+      "x": 186,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a59bay2",
+      "x": 606,
+      "y": 165,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a37bay4",
+      "x": 120,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a49bay16",
+      "x": 372,
+      "y": 60,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a27bay5",
+      "x": 162,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a24bay15",
+      "x": 234,
+      "y": 261,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a7bay17",
+      "x": 603,
+      "y": 246,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a143bay38",
+      "x": 144,
+      "y": 93,
+      "width": 12,
+      "height": 6,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a10bay8",
+      "x": 567,
+      "y": 288,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a25bay10",
+      "x": 228,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a27bay12",
+      "x": 180,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a40bay4",
+      "x": 189,
+      "y": 150,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a22bay4",
+      "x": 300,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a22bay11",
+      "x": 282,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a49bay14",
+      "x": 372,
+      "y": 75,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a7bay16",
+      "x": 618,
+      "y": 246,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a13bay14",
+      "x": 522,
+      "y": 228,
+      "width": 3,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a40bay10",
+      "x": 189,
+      "y": 114,
+      "width": 3,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a17bay2",
+      "x": 420,
+      "y": 351,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a20bay4",
+      "x": 348,
+      "y": 336,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a42bay2",
+      "x": 219,
+      "y": 165,
+      "width": 3,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a143bay37",
+      "x": 156,
+      "y": 93,
+      "width": 12,
+      "height": 6,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a58bay14",
+      "x": 582,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a53bay17",
+      "x": 447,
+      "y": 60,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a24bay12",
+      "x": 252,
+      "y": 276,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a61bay7",
+      "x": 636,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a46bay4",
+      "x": 300,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a39bay11",
+      "x": 150,
+      "y": 114,
+      "width": 6,
+      "height": 6,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a143bay3",
+      "x": 642,
+      "y": 39,
+      "width": 12,
+      "height": 6,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a24bay9",
+      "x": 234,
+      "y": 306,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a51bay15",
+      "x": 399,
+      "y": 75,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a60bay13",
+      "x": 612,
+      "y": 90,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    },
+    {
+      "id": "a57bay4",
+      "x": 558,
+      "y": 150,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a27bay6",
+      "x": 180,
+      "y": 321,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a56bay10",
+      "x": 534,
+      "y": 105,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a20bay20",
+      "x": 348,
+      "y": 216,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a50bay6",
+      "x": 393,
+      "y": 135,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a17bay16",
+      "x": 420,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "ITH"
+    },
+    {
+      "id": "a40bay11",
+      "x": 174,
+      "y": 114,
+      "width": 6,
+      "height": 6,
+      "department": "ITH"
+    },
+    {
+      "id": "a19bay10",
+      "x": 372,
+      "y": 291,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a19bay16",
+      "x": 372,
+      "y": 246,
+      "width": 6,
+      "height": 15,
+      "department": "LIFESTYLES"
+    },
+    {
+      "id": "a59bay8",
+      "x": 606,
+      "y": 120,
+      "width": 6,
+      "height": 15,
+      "department": "BUILDERS"
+    }
+  ]
+  
